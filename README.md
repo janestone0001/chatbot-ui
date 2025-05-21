@@ -290,3 +290,6 @@ We are working on a guide for contributing.
 ## Contact
 
 Message Mckay on [Twitter/X](https://twitter.com/mckaywrigley)
+
+# PROOF OF OWNERSHIP
+My discord account is 'three'
